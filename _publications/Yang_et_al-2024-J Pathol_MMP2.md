@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Yang_et_al-2024-J Pathol_MMP2
 excerpt: 'J Pathol. 2024;264(1):30-41. doi:10.1002/path.6321'
-
+date:2024-10-1
 
 paperurl: 'http://melanocyte.github.io/files/Yang_et_al-2024-J Pathol_MMP2.pdf'
 
