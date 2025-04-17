@@ -18,9 +18,9 @@ Department of Dermatology, Course of Integrated Medicine, Graduate School of Med
 
 Work experience
 ======
-2018.4-present  Project Researcher
+* 2018.4-present  Project Researcher
 Osaka Metropolitan University
-2013.4-2015.3  Project Researcher
+* 2013.4-2015.3  Project Researcher
 Department of Dermatology, Course of Integrated Medicine, Graduate School of Medicine, Osaka University
   
 Skills
