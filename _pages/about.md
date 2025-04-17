@@ -44,7 +44,7 @@ International conference presentation：
 * 「Dynamic visualization of dendritic cells in the skin from patients with vitiligo or rhododendrol-induced leukoderma」, Poster Presentation , LC2015 (14th International Workshop on Langerhans Cells) (Saturday 7-November, 2015, Kyoto, Japan).
 * 「Dynamic visualization of dendritic cells in the skin from patients with vitiligo or rhododendrol-induced leukoderma」, Poster Presentation ,　VIS2016 (Vitiligo International symposium) (Saturday 3-December, 2016, Rome, Italy).
 * 「Melanocyte-specific Knockout of TSC2 in mice Induces skin depigmenation」, Poster Presentation , IPCC2017 (International Pigment Cell Conference 2017) (Saturday 26-August, 2017, Denver, USA).
-*「Disorganization of basement membrane zone architecture for impaired melanocyte inhabitation in vitiligo」, Poster Presentation ,ISID2023(International Societies for Investigative Dermatology 2023)(10 - 13 May 2023, Keio Plaza Hotel Tokyo, Japan)
+* 「Disorganization of basement membrane zone architecture for impaired melanocyte inhabitation in vitiligo」, Poster Presentation ,ISID2023(International Societies for Investigative Dermatology 2023)(10 - 13 May 2023, Keio Plaza Hotel Tokyo, Japan)
 
 国内学会発表：
 ======
