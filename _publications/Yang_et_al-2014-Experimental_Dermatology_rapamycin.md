@@ -3,7 +3,7 @@ title: "Topical application of rapamycin ointment ameliorates Dermatophagoides f
 collection: publications
 category: manuscripts
 permalink: /publication/Yang_et_al-2014-Experimental_Dermatology_rapamycin
-excerpt: ''
+excerpt: 'Exp Dermatol. 2014 Aug; 23(8):568-72. doi: 10.1111.'
 date: 2014-10-01
 venue: 'Journal 1'
 

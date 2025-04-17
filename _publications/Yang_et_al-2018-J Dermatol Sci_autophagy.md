@@ -3,7 +3,7 @@ title: "Dysregulation of autophagy in melanocytes contributes to hypopigmented m
 collection: publications
 category: manuscripts
 permalink: /publication/Yang_et_al-2018-J Dermatol Sci_autophagy
-excerpt: ''
+excerpt: 'J Dermatol Sci. 2018 Feb;89(2):155-164.  doi: 10.1016/j.jdermsci.2017.11.002'
 date: 2018-10-01
 venue: 'Journal 1'
 
