@@ -5,7 +5,6 @@ category: manuscripts
 permalink: /publication/Yang_et_al-2024-J Pathol_MMP2
 excerpt: 'The Journal of pathology, 264(1), 30–41. https://doi.org/10.1002/path.6321'
 date: 2024-10-01
-venue: 'Journal 1'
 
 paperurl: 'http://melanocyte.github.io/files/Yang_et_al-2024-J Pathol_MMP2.pdf'
 
