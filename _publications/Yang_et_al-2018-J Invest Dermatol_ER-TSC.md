@@ -3,7 +3,7 @@ title: "Uncoupling of ER/mitochondrial oxidative stress in mTORC1 hyperactivatio
 collection: publications
 category: manuscripts
 permalink: /publication/Yang_et_al-2018-J Invest Dermatol_ER-TSC
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2018-10-01
 venue: 'Journal 1'
 

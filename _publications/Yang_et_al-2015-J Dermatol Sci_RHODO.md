@@ -3,7 +3,7 @@ title: "4-(4-hydroxyphenyl)-2-butanol (rhododendrol) activates the autophagy-lys
 collection: publications
 category: manuscripts
 permalink: /publication/Yang_et_al-2015-J Dermatol Sci_RHODO
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2015-10-01
 venue: 'Journal 1'
 

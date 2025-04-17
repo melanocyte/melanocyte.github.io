@@ -3,7 +3,7 @@ title: "Disorganisation of basement membrane zone architecture impairs melanocyt
 collection: publications
 category: manuscripts
 permalink: /publication/Yang_et_al-2024-J Pathol_MMP2
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2024-10-01
 venue: 'Journal 1'
 

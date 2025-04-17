@@ -3,7 +3,7 @@ title: "Epilepsy in a melanocyte-lineage mTOR hyperactivation mouse model: A nov
 collection: publications
 category: manuscripts
 permalink: /publication/Yang_et_al-2020-PLOS ONE_TSC-Epilepsy
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2020-10-01
 venue: 'Journal 1'
 
