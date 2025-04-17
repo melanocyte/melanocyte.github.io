@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2015.4-2018.3     Doctor Course
+Department of Dermatology, Course of Integrated Medicine, Graduate School of Medicine, Osaka University
+* 2012.10-2013.3     Research Student
+Department of Dermatology, Course of Integrated Medicine, Graduate School of Medicine, Osaka University
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+2018.4-present  Project Researcher
+Osaka Metropolitan University
+2013.4-2015.3  Project Researcher
+Department of Dermatology, Course of Integrated Medicine, Graduate School of Medicine, Osaka University
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Immuno-electron Microscopy 
+* Transmission electron microscopy (TEM)
+* Scanning electron microscopy (SEM) 
+* Immunofluorescence and Immunohistochemistry
+* Mouse Experiments
+* 3D Skin Model
 
 Publications
 ======
@@ -47,18 +38,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
