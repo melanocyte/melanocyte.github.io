@@ -6,7 +6,7 @@ permalink: /publication/Yang_et_al-2015-J Dermatol Sci_RHODO
 excerpt: 'J Dermatol Sci. 2015 Mar; 77 (3): 182-5. Doi: 10.1016.'
 date: 2015-10-01
 
-paperurl: 'https://www.jdsjournal.com/article/S0923-1811(15)00031-6/abstract'
+paperurl: 'http://melanocyte.github.io/files/Yang_et_al-2015-J Dermatol Sci_RHODO.pdf'
 
 ---
 Yang Lingli, Yang Fei, et al., 4-(4-hydroxyphenyl)-2-butanol (rhododendrol) activates the autophagy-lysosome pathway in melanocytes: insights into the mechanisms of rhododendrol-induced leukoderma. J Dermatol Sci. 2015 Mar; 77 (3): 182-5. Doi: 10.1016.

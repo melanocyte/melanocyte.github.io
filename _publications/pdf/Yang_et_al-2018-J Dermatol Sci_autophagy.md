@@ -6,7 +6,7 @@ permalink: /publication/Yang_et_al-2018-J Dermatol Sci_autophagy
 excerpt: 'J Dermatol Sci. 2018 Feb;89(2):155-164.  doi: 10.1016/j.jdermsci.2017.11.002'
 date: 2018-10-01
 
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S092318111730960X'
+paperurl: 'http://melanocyte.github.io/files/Yang_et_al-2018-J Dermatol Sci_autophagy.pdf'
 
 ---
 Yang Fei, Yang L, et al., Dysregulation of autophagy in melanocytes contributes to hypopigmented macules in tuberous sclerosis complex.J Dermatol Sci. 2018 Feb;89(2):155-164.  doi: 10.1016/j.jdermsci.2017.11.002
