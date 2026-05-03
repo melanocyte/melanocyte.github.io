@@ -32,10 +32,14 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Yang F, Yang L, Lai S, et al. Aberrant laminin signaling drives melanocyte dedifferentiation and unveils a tractable therapeutic target in vitiligo. Nat Commun. Published online April 17, 2026. doi:10.1038/s41467-026-72064-w
+* Yang F, Yang L, Kuroda Y, et al. Disorganisation of basement membrane zone architecture impairs melanocyte residence in vitiligo. J Pathol. 2024;264(1):30-41. doi:10.1002/path.6321
+* Yang F, Yang L, Teng L, Zhang H, Katayama I. Morphological Alterations and Increased S100B Expression in Epidermal Langerhans Cells Detected in Skin from Patients with Progressive Vitiligo. Life (Basel). 2021;11(6):579. Published 2021 Jun 18. doi:10.3390/life11060579
+* Yang F, Yang L, Wataya-Kaneda M, Teng L, Katayama I. Epilepsy in a melanocyte-lineage mTOR hyperactivation mouse model: A novel epilepsy model. PLoS One. 2020;15(1):e0228204. Published 2020 Jan 24. doi:10.1371/journal.pone.0228204
+* Yang F, Yang L, Wataya-Kaneda M, et al. Dysregulation of autophagy in melanocytes contributes to hypopigmented macules in tuberous sclerosis complex. J Dermatol Sci. 2018;89(2):155-164. doi:10.1016/j.jdermsci.2017.11.002
+* Yang F, Yang L, Wataya-Kaneda M, Yoshimura T, Tanemura A, Katayama I. Uncoupling of ER/Mitochondrial Oxidative Stress in mTORC1 Hyperactivation-Associated Skin Hypopigmentation. J Invest Dermatol. 2018;138(3):669-678. doi:10.1016/j.jid.2017.10.007
+* Yang F, Tanaka M, Wataya-Kaneda M, et al. Topical application of rapamycin ointment ameliorates Dermatophagoides farina body extract-induced atopic dermatitis in NC/Nga mice. Exp Dermatol. 2014;23(8):568-572. doi:10.1111/exd.12463
+
 International conference presentation：
 ======
 * 「Topical Application of Rapamycin Ointment Inhibits Dermatophagoides Farinae Body (Dfb) Extract Antigen-Induced Dermatitis in NC/Nga Mice」, Poster Presentation , 2014 AAAI (American Academy of Allergy, Asthma & Immunology) (February 28-March, 2014, San Diego, CA, USA).
